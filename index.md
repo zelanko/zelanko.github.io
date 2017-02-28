@@ -1,6 +1,9 @@
-### Ari Zelanko
+---
+---
+### Ari Zelanko - Professional Software Engineer
 
-Professional Software Engineer   
 __Home Area__: Jacksonville, Florida   
-__Technology Keywords__: C#, dotnetcore, aspnetcore, Microsoft&#8482; SQL Server, Microsoft&#8482; SQL Server Integration Services
-Microsoft&#8482; SQL Server Analysis Services BISM-Tabular
+__Technology Keywords__: C#, dotnetcore, aspnetcore, efcore, SQL Server,
+SQL Server Integration Services, SQL Server Analysis Services BISM-Tabular
+
+[Contact](contact.html)
