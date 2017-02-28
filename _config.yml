@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+timezone: "United Stages/Atlanta"
+repository: zelanko/zelanko.github.io
+
+webrick:
+  headers:
+    Content-Language: "en_us"
+
+exclude: ["README.md"]
+
+theme: "jekyll-theme-minimal"
+title: "Ari Zelanko - Professional Software Engineer"
+description: "AKA zelanko on github"
+
+show_downloads: false
+incremental: false
